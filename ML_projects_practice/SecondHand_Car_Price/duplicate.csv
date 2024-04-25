@@ -1,0 +1,40 @@
+,Brand,Model,Year,Kilometers_Driven,Fuel_Type,Transmission,Owner_Type,Mileage,Engine,Power,Seats,Price
+61,Tata,Altroz,2020,18000,Petrol,Manual,First,20,1199,85,5,600000
+62,Mahindra,Thar,2021,10000,Diesel,Manual,First,15,2184,130,4,1200000
+63,Volkswagen,Passat,2017,32000,Diesel,Automatic,Second,17,1968,174,5,1600000
+64,Audi,A6,2018,28000,Petrol,Automatic,First,15,1984,241,5,3200000
+65,BMW,X3,2019,22000,Diesel,Automatic,Second,18,1995,187,5,2800000
+66,Mercedes,E-Class,2017,30000,Diesel,Automatic,First,16,1950,191,5,2700000
+67,Toyota,Fortuner,2018,38000,Diesel,Automatic,Second,12,2755,174,7,2500000
+68,Ford,Aspire,2019,26000,Petrol,Manual,Third,20,1194,94,5,600000
+69,Hyundai,Elantra,2017,32000,Diesel,Automatic,Second,22,1582,126,5,800000
+70,Tata,Safari,2018,42000,Diesel,Manual,First,14,1956,150,7,1300000
+71,Maruti,Vitara,2019,24000,Petrol,Manual,Second,17,1462,103,5,700000
+72,Honda,WR-V,2018,28000,Diesel,Manual,First,25,1498,98,5,750000
+73,Volkswagen,Ameo,2020,15000,Petrol,Automatic,Third,19,1197,74,5,500000
+74,Audi,A3,2017,38000,Petrol,Automatic,Second,16,1395,148,5,2000000
+75,BMW,7 Series,2019,22000,Diesel,Automatic,First,15,2993,261,5,3500000
+76,Mercedes,GLE,2018,26000,Petrol,Automatic,Second,12,2996,362,5,4000000
+77,Toyota,Yaris,2020,18000,Petrol,Manual,First,17,1496,106,5,650000
+78,Ford,Ranger,2017,38000,Diesel,Manual,Second,12,2198,158,5,1500000
+79,Hyundai,Santro,2019,26000,Petrol,Manual,Third,20,1086,68,5,450000
+80,Tata,Tigor,2018,42000,Diesel,Manual,First,24,1047,69,5,500000
+81,Maruti,S-Cross,2020,15000,Petrol,Automatic,Second,18,1462,103,5,700000
+82,Honda,BR-V,2018,28000,Diesel,Manual,First,21,1498,98,7,850000
+83,Volkswagen,T-Roc,2019,22000,Petrol,Automatic,Second,18,1498,148,5,1600000
+84,Audi,Q7,2017,30000,Diesel,Automatic,First,14,2967,245,7,3000000
+85,BMW,X5,2018,28000,Petrol,Automatic,Second,14,2998,335,5,3200000
+86,Mercedes,GLA,2019,24000,Diesel,Automatic,First,17,2143,170,5,2400000
+87,Toyota,Camry,2016,38000,Petrol,Automatic,Second,19,2487,176,5,1800000
+88,Ford,Mustang,2019,22000,Petrol,Automatic,First,13,2261,396,4,2700000
+89,Hyundai,Venue,2018,32000,Petrol,Manual,Third,17,1197,81,5,550000
+90,Tata,Tiago,2020,18000,Petrol,Manual,First,23,1199,84,5,500000
+91,Mahindra,XUV300,2019,26000,Diesel,Manual,Second,20,1497,115,5,700000
+92,Volkswagen,Vento,2017,32000,Petrol,Manual,Second,18,1598,103,5,650000
+93,Audi,A5,2018,28000,Diesel,Automatic,First,17,1968,187,5,2600000
+94,BMW,3 Series,2020,15000,Petrol,Automatic,Second,15,1998,258,5,2800000
+95,Mercedes,C-Class,2019,22000,Diesel,Automatic,First,16,1950,191,5,2900000
+96,Toyota,Innova Crysta,2017,38000,Diesel,Manual,Second,13,2755,171,7,1400000
+97,Ford,EcoSport,2018,26000,Petrol,Manual,Third,18,1497,121,5,750000
+98,Hyundai,Verna,2019,24000,Petrol,Automatic,Second,17,1497,113,5,850000
+99,Tata,Altroz,2020,18000,Petrol,Manual,First,20,1199,85,5,600000
