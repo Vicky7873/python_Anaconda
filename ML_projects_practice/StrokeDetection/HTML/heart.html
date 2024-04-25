@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Heart Stroke Prediction</title>
+</head>
+<body>
+
+<h1>Predict your Heart Stroke</h1>
+
+<form action="{{ url_for('predict_datapoint')}}" method="post">
+ <div>
+   <label for="gender">Gender:</label>
+   <select id="gender" name="gender">
+   	 <option value='--None--'>--None--</option>
+     <option value="male">Male</option>
+     <option value="female">Female</option>
+     <option value="other">Other</option>
+   </select>
+ </div>
+
+ <div>
+   <label for="age">Age:</label>
+   <input type="number" id="age" name="age" min="0">
+ </div>
+
+ <div>
+   <label for="hypertension">hypertension:</label>
+   <select id="hypertension" name="hypertension">
+   	 <option value='--None--'>--None--</option>
+     <option value="yes">Yes</option>
+     <option value="no">No</option>
+   </select>
+ </div>
+
+ <div>
+   <label for="heart_disease">heart_disease:</label>
+   <select id="heart_disease" name="heart_disease">
+     <option value='--None--'>--None--</option>
+     <option value="yes">Yes</option>
+     <option value="no">No</option>
+   </select>
+ </div>
+
+ <div>
+   <label for="ever_married">ever_married:</label>
+   <select id="ever_married" name="ever_married">
+     <option value='--None--'>--None--</option>
+     <option value="yes">Yes</option>
+     <option value="no">No</option>
+   </select>
+ </div>
+
+ <div>
+   <label for="work_type">work_type:</label>
+   <select id="work_type" name="work_type">
+    <option value="--None--">--None--</option>
+    <option value="Private">Private</option>
+    <option value="Self-employed">Self-employed</option>
+    <option value="children">children</option>
+    <option value="Govt_job">Govt_job</option>
+    <option value="Never_worked">Never_worked</option>
+   </select>
+ </div>
+
+ <div>
+   <label for="residence_type">residence_type:</label>
+   <select id="residence_type" name="residence_type">
+     <option value="urban">Urban</option>
+     <option value="rural">Rural</option>
+   </select>
+ </div>
+
+ <div>
+   <label for="avg_glucose_level">avg_glucose_level:</label>
+   <input type="number" id="avg_glucose_level" name="avg_glucose_level" min="0">
+ </div>
+
+ <div>
+   <label for="bmi">BMI:</label>
+   <input type="number" id="bmi" name="bmi" min="0">
+ </div>
+
+ <div>
+   <label for="smoking_status">smoking_status:</label>
+   <select id="smoking_status" name="smoking_status">
+    <option value="--None--">--None--</option>
+    <option value="never smoked">never smoked</option>
+    <option value="Unknown">Unknown</option>
+    <option value="formerly smoked">formerly smoked</option>
+    <option value="smokes">smokes</option>
+   </select>
+ </div>
+
+  
+<button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+</form>
+<h2>
+       THE Stroke prediction is {{result}}
+    </h2>
+</body>
+</html>
+
+

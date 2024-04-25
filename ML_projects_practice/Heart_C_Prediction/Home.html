@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html >
+   <head>
+      <meta charset="UTF-8">
+      <title>ML API</title>
+   </head>
+   <body>
+      <div class="login">
+         <h1>Heart Attack Prediction</h1>
+         <form action="{{ url_for('predict_datapoint')}}" method="post">
+            <input type="text" name="trstbps" placeholder="trstbps" required="required" /><br>
+            <input type="text" name="chol" placeholder="chol" required="required" /><br>
+            <input type="text" name="thalach" placeholder="thalach" required="required" /><br>
+            <input type="text" name="oldpeak" placeholder="oldpeak" required="required" /><br>
+            <input type="text" name="Age" placeholder="Age" required="required" /><br> 
+            <label for="cp">cp:</label>
+            <select name="cp" id="cp">
+               <option value="cp">--None--</option>
+               <option value="cp">0</option>
+               <option value="cp">1</option>
+               <option value="cp">2</option>
+               <option value="cp">3</option>
+               <option value="cp">4</option>
+            </select>
+            <br>
+            <label for="fbs">fbs:</label>
+            <select name="fbs" id="CP">
+               <option value="fbs">--None--</option>
+               <option value="fbs">0</option>
+               <option value="fbs">1</option>
+            </select>
+            <br>
+            <label for="restecg">restecg:</label>
+            <select name="restecg" id="restecg">
+               <option value="restecg">--None--</option>
+               <option value="restecg">0</option>
+               <option value="restecg">1</option>
+               <option value="restecg">2</option>
+            </select>
+            <br>
+            <label for="exang">exang:</label>
+            <select name="exang" id="exang">
+               <option value="exang">--None--</option>
+               <option value="exang">0</option>
+               <option value="exang">1</option>
+            </select>
+            <br>
+            <label for="slope">slope:</label>
+            <select name="slope" id="slope">
+               <option value="slope">--None--</option>
+               <option value="slope">0</option>
+               <option value="slope">1</option>
+               <option value="slope">2</option>
+            </select>
+            <br>
+            <label for="ca">ca:</label>
+            <select name="ca" id="ca">
+               <option value="ca">--None--</option>
+               <option value="ca">0</option>
+               <option value="ca">1</option>
+               <option value="ca">2</option>
+               <option value="ca">3</option>
+               <option value="ca">4</option>
+            </select>
+            <br>
+            <label for="thal">thal:</label>
+            <select name="thal" id="thal">
+               <option value="thal">--None--</option>
+               <option value="thal">0</option>
+               <option value="thal">1</option>
+               <option value="thal">2</option>
+               <option value="thal">3</option>
+               <option value="thal">4</option>
+            </select>
+            <br>
+            <label for="Gender">Gender[F-0,M-1]:</label>
+            <select name="Gender" id="cars">
+               <option value="Gender">--None--</option>
+               <option value="Gender">0</option>
+               <option value="Gender">1</option>
+            </select>
+            <br>
+            <br>
+            <button type="submit" class="btn btn-primary btn-block btn-large">Predict</button>
+         </form>
+         <body>
+            <br>
+            <br>
+      </div>
+      {{result}}
+   </body>
+</html>
