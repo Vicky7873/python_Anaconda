@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Car Prediction</title>
+</head>
+<body>
+    <h1>Car Prediction Form</h1>
+    <form action="/predict" method="post">
+        <label for="brand">Brand:</label>
+        <select id="brand" name="brand">
+            <option value="--None--">--None--</option>
+            <option value="Toyota">Toyota</option>
+            <option value="Honda">Honda</option>
+            <option value="Ford">Ford</option>
+            <option value="Maruti">Maruti</option>
+            <option value="Hyundai">Hyundai</option>
+            <option value="Tata">Tata</option>
+            <option value="Mahindra">Mahindra</option>
+            <option value="Volkswagen">Volkswagen</option>
+            <option value="Audi">Audi</option>
+            <option value="BMW">BMW</option>
+            <option value="Mercedes">Mercedes</option>
+        </select><br><br>
+        
+        <label for="model">Model:</label>
+        <select id="model" name="model">
+            <option value="--None--">--None--</option>
+            <option value="Corolla">Corolla</option>
+            <option value="Civic">Civic</option>
+            <option value="Mustang">Mustang</option>
+            <option value="Swift">Swift</option>
+            <option value="Sonata">Sonata</option>
+            <option value="Nexon">Nexon</option>
+            <option value="Scorpio">Scorpio</option>
+            <option value="Polo">Polo</option>
+            <option value="A4">A4</option>
+            <option value="X1">X1</option>
+            <option value="C-Class">C-Class</option>
+            <option value="Endeavour">Endeavour</option>
+            <option value="Creta">Creta</option>
+            <option value="Harrier">Harrier</option>
+            <option value="Ertiga">Ertiga</option>
+            <option value="City">City</option>
+            <option value="Tiguan">Tiguan</option>
+            <option value="Q3">Q3</option>
+            <option value="5 Series">5 Series</option>
+            <option value="GLC">GLC</option>
+            <option value="Innova">Innova</option>
+            <option value="Figo">Figo</option>
+            <option value="Verna">Verna</option>
+            <option value="Altroz">Altroz</option>
+            <option value="Thar">Thar</option>
+            <option value="Passat">Passat</option>
+            <option value="A6">A6</option>
+            <option value="X3">X3</option>
+            <option value="E-Class">E-Class</option>
+            <option value="Fortuner">Fortuner</option>
+            <option value="Aspire">Aspire</option>
+            <option value="Elantra">Elantra</option>
+            <option value="Safari">Safari</option>
+            <option value="Vitara">Vitara</option>
+            <option value="WR-V">WR-V</option>
+            <option value="Ameo">Ameo</option>
+            <option value="A3">A3</option>
+            <option value="7 Series">7 Series</option>
+            <option value="GLE">GLE</option>
+            <option value="Yaris">Yaris</option>
+            <option value="Ranger">Ranger</option>
+            <option value="Santro">Santro</option>
+            <option value="Tigor">Tigor</option>
+            <option value="S-Cross">S-Cross</option>
+            <option value="BR-V">BR-V</option>
+            <option value="T-Roc">T-Roc</option>
+            <option value="Q7">Q7</option>
+            <option value="X5">X5</option>
+            <option value="GLA">GLA</option>
+            <option value="Camry">Camry</option>
+            <option value="Venue">Venue</option>
+            <option value="Tiago">Tiago</option>
+            <option value="XUV300">XUV300</option>
+            <option value="Vento">Vento</option>
+            <option value="A5">A5</option>
+            <option value="3 Series">3 Series</option>
+            <option value="Innova Crysta">Innova Crysta</option>
+            <option value="EcoSport">EcoSport</option>
+        </select><br><br>
+        
+        <label for="year">Year:</label>
+        <select id="year" name="year">
+            <option value="--None--">--None--</option>
+            <option value="2018">2018</option>
+            <option value="2019">2019</option>
+            <option value="2017">2017</option>
+            <option value="2020">2020</option>
+            <option value="2016">2016</option>
+            <option value="2021">2021</option>
+        </select><br><br>
+        
+        <label for="fuel_type">Fuel Type:</label>
+        <select id="fuel_type" name="fuel_type">
+            <option value="--None--">--None--</option>
+            <option value="Petrol">Petrol</option>
+            <option value="Diesel">Diesel</option>
+        </select><br><br>
+        
+        <label for="Transmission">Transmission:</label>
+        <select id="Transmission" name="Transmission">
+            <option value="--None--">--None--</option>
+            <option value="Manual">Manual</option>
+            <option value="Automatic">Automatic</option>
+        </select><br><br>
+        
+        <label for="Owner_Type">Owner_Type:</label>
+        <select id="Owner_Type" name="Owner_Type">
+            <option value="--None--">--None--</option>
+            <option value="First">First</option>
+            <option value="Second">Second</option>
+            <option value="Third">Third</option>
+        </select><br><br>
+        
+        <label for="Seats">Seats:</label>
+        <select id="Seats" name="Seats">
+            <option value="--None--">--None--</option>
+            <option value="4">4</option>
+            <option value="5">5</option>
+            <option value="7">7</option>
+        </select><br><br>
+        
+        <label for="kilometers">Kilometers Driven:</label>
+        <input type="number" id="kilometers" name="kilometers" placeholder="50000"><br><br>
+        
+        <label for="mileage">Mileage:</label>
+        <input type="number" id="mileage" name="mileage" placeholder="15"><br><br>
+        
+        <label for="engine">Engine:</label>
+        <input type="number" id="engine" name="engine" placeholder="1498"><br><br>
+        
+        <label for="power">Power:</label>
+        <input type="number" id="power" name="power" placeholder="108"><br><br>
+        
+        <input type="submit" value="Predict">
+    </form>
+	
+	<p>{{ prediction_text }}</p>
+</body>
+</html>

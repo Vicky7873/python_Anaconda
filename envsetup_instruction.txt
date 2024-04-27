@@ -1,0 +1,8 @@
+creata conda env
+view-> command palette-> creata python env -> select conda-> select python versioon
+
+to activate
+just search the activate.bat file 
+copy the path of bat file
+paste in terminal
+click enter 
