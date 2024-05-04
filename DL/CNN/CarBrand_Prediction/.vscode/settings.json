@@ -1,0 +1,4 @@
+{
+    "spec-coder.aiAssistantProvider": "OpenAI",
+    "spec-coder.openaiModel": "gpt-4"
+}
