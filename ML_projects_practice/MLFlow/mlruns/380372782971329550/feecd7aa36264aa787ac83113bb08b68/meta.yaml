@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/feecd7aa36264aa787ac83113bb08b68/artifacts
+deleted_time: 1717848812304
+end_time: 1717845552461
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: feecd7aa36264aa787ac83113bb08b68
+run_name: wise-crow-38
+run_uuid: feecd7aa36264aa787ac83113bb08b68
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717845552435
+status: 4
+tags: []
+user_id: bhikipallai

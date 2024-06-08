@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/ce7e4f9b04064f4aba8b528ddba713ac/artifacts
+deleted_time: 1717849540204
+end_time: 1717849325833
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: deleted
+run_id: ce7e4f9b04064f4aba8b528ddba713ac
+run_name: amazing-sow-256
+run_uuid: ce7e4f9b04064f4aba8b528ddba713ac
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849325806
+status: 4
+tags: []
+user_id: bhikipallai

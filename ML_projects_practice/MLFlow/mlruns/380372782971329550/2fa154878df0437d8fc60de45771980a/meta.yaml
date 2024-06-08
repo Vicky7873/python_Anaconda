@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/2fa154878df0437d8fc60de45771980a/artifacts
+deleted_time: 1717849595905
+end_time: 1717849242513
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 2fa154878df0437d8fc60de45771980a
+run_name: painted-squid-781
+run_uuid: 2fa154878df0437d8fc60de45771980a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849242489
+status: 4
+tags: []
+user_id: bhikipallai

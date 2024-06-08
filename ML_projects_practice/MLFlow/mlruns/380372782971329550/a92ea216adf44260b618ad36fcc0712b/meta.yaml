@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/a92ea216adf44260b618ad36fcc0712b/artifacts
+deleted_time: 1717849595899
+end_time: 1717849255692
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: a92ea216adf44260b618ad36fcc0712b
+run_name: trusting-stork-337
+run_uuid: a92ea216adf44260b618ad36fcc0712b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849255665
+status: 4
+tags: []
+user_id: bhikipallai

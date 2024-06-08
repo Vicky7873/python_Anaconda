@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/491edcadbe2f40b0ad444809febe7e1f/artifacts
+deleted_time: 1717849595902
+end_time: 1717849314335
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 491edcadbe2f40b0ad444809febe7e1f
+run_name: magnificent-hen-78
+run_uuid: 491edcadbe2f40b0ad444809febe7e1f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849314309
+status: 4
+tags: []
+user_id: bhikipallai

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/3138b9051a034110b91ad9a8eb7fc507/artifacts
+end_time: 1717792444341
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: active
+run_id: 3138b9051a034110b91ad9a8eb7fc507
+run_name: melodic-foal-989
+run_uuid: 3138b9051a034110b91ad9a8eb7fc507
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717792442786
+status: 3
+tags: []
+user_id: bhikipallai

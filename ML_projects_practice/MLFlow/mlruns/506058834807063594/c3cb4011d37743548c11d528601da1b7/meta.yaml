@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/c3cb4011d37743548c11d528601da1b7/artifacts
+deleted_time: 1717849540207
+end_time: 1717849122735
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: deleted
+run_id: c3cb4011d37743548c11d528601da1b7
+run_name: magnificent-fox-50
+run_uuid: c3cb4011d37743548c11d528601da1b7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849122704
+status: 4
+tags: []
+user_id: bhikipallai

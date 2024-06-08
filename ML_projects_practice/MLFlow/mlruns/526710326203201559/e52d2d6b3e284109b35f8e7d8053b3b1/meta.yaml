@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/526710326203201559/e52d2d6b3e284109b35f8e7d8053b3b1/artifacts
+end_time: 1717847479547
+entry_point_name: ''
+experiment_id: '526710326203201559'
+lifecycle_stage: active
+run_id: e52d2d6b3e284109b35f8e7d8053b3b1
+run_name: Sample Run
+run_uuid: e52d2d6b3e284109b35f8e7d8053b3b1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717847478256
+status: 4
+tags: []
+user_id: bhikipallai

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/a2829cf2b9ad4614be0babd169a298df/artifacts
+end_time: 1717848347336
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: active
+run_id: a2829cf2b9ad4614be0babd169a298df
+run_name: luminous-lark-959
+run_uuid: a2829cf2b9ad4614be0babd169a298df
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717848345639
+status: 3
+tags: []
+user_id: bhikipallai

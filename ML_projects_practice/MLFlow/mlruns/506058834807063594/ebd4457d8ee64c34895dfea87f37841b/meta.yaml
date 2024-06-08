@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/ebd4457d8ee64c34895dfea87f37841b/artifacts
+end_time: 1717791681233
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: active
+run_id: ebd4457d8ee64c34895dfea87f37841b
+run_name: big-hen-754
+run_uuid: ebd4457d8ee64c34895dfea87f37841b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717791680110
+status: 3
+tags: []
+user_id: bhikipallai

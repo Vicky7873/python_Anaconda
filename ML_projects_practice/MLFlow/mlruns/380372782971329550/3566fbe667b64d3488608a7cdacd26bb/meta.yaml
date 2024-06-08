@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/3566fbe667b64d3488608a7cdacd26bb/artifacts
+deleted_time: 1717848812300
+end_time: 1717845718282
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 3566fbe667b64d3488608a7cdacd26bb
+run_name: victorious-cow-597
+run_uuid: 3566fbe667b64d3488608a7cdacd26bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717845718259
+status: 4
+tags: []
+user_id: bhikipallai

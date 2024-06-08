@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/bffe671a33ab48e28efe097b97a865ad/artifacts
+deleted_time: 1717791765554
+end_time: 1717791027566
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: deleted
+run_id: bffe671a33ab48e28efe097b97a865ad
+run_name: inquisitive-elk-740
+run_uuid: bffe671a33ab48e28efe097b97a865ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717791024390
+status: 4
+tags: []
+user_id: bhikipallai

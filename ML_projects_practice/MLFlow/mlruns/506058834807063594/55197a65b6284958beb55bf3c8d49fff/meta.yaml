@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/55197a65b6284958beb55bf3c8d49fff/artifacts
+deleted_time: 1717849540201
+end_time: 1717849373282
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: deleted
+run_id: 55197a65b6284958beb55bf3c8d49fff
+run_name: abundant-crab-948
+run_uuid: 55197a65b6284958beb55bf3c8d49fff
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849373257
+status: 4
+tags: []
+user_id: bhikipallai

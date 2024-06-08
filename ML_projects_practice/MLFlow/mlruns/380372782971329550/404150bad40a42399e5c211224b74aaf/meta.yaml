@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/404150bad40a42399e5c211224b74aaf/artifacts
+deleted_time: 1717848812291
+end_time: 1717847822341
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 404150bad40a42399e5c211224b74aaf
+run_name: placid-fly-735
+run_uuid: 404150bad40a42399e5c211224b74aaf
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717847822322
+status: 4
+tags: []
+user_id: bhikipallai

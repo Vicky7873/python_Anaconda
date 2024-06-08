@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/5c1037be92a14744998dfcd185ac98eb/artifacts
+deleted_time: 1717848812301
+end_time: 1717845637532
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 5c1037be92a14744998dfcd185ac98eb
+run_name: tasteful-penguin-112
+run_uuid: 5c1037be92a14744998dfcd185ac98eb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717845637506
+status: 4
+tags: []
+user_id: bhikipallai

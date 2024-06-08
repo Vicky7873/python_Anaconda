@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/c69e7c7c121449fbb1c9d719b1b1c27f/artifacts
+deleted_time: 1717849595899
+end_time: 1717849282161
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: c69e7c7c121449fbb1c9d719b1b1c27f
+run_name: orderly-donkey-363
+run_uuid: c69e7c7c121449fbb1c9d719b1b1c27f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849282135
+status: 4
+tags: []
+user_id: bhikipallai

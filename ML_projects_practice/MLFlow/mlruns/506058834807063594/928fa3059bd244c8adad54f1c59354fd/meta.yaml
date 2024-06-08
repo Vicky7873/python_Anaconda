@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/928fa3059bd244c8adad54f1c59354fd/artifacts
+end_time: 1717849576368
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: active
+run_id: 928fa3059bd244c8adad54f1c59354fd
+run_name: resilient-panda-504
+run_uuid: 928fa3059bd244c8adad54f1c59354fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849574799
+status: 3
+tags: []
+user_id: bhikipallai

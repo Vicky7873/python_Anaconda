@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/506058834807063594/7e56f7d08661422e84dfe4466c9d26dc/artifacts
+end_time: 1717849614498
+entry_point_name: ''
+experiment_id: '506058834807063594'
+lifecycle_stage: active
+run_id: 7e56f7d08661422e84dfe4466c9d26dc
+run_name: salty-kite-214
+run_uuid: 7e56f7d08661422e84dfe4466c9d26dc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849613149
+status: 3
+tags: []
+user_id: bhikipallai

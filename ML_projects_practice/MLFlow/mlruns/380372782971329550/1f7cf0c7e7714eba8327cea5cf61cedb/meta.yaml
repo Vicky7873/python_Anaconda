@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/1f7cf0c7e7714eba8327cea5cf61cedb/artifacts
+deleted_time: 1717848812295
+end_time: 1717847711671
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 1f7cf0c7e7714eba8327cea5cf61cedb
+run_name: funny-shrew-578
+run_uuid: 1f7cf0c7e7714eba8327cea5cf61cedb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717847711656
+status: 4
+tags: []
+user_id: bhikipallai

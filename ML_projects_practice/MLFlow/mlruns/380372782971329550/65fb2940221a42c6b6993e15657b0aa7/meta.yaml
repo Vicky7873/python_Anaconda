@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/65fb2940221a42c6b6993e15657b0aa7/artifacts
+deleted_time: 1717848812290
+end_time: 1717847749311
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 65fb2940221a42c6b6993e15657b0aa7
+run_name: delicate-goat-962
+run_uuid: 65fb2940221a42c6b6993e15657b0aa7
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717847749295
+status: 4
+tags: []
+user_id: bhikipallai

@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/24849687386749e39d8a2fb79470da2c/artifacts
+deleted_time: 1717849595899
+end_time: 1717849296123
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 24849687386749e39d8a2fb79470da2c
+run_name: funny-asp-872
+run_uuid: 24849687386749e39d8a2fb79470da2c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717849296096
+status: 4
+tags: []
+user_id: bhikipallai

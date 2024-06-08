@@ -1,0 +1,16 @@
+artifact_uri: file:///Users/bhikipallai/Desktop/python_Anaconda/ML_projects_practice/MLFlow/mlruns/380372782971329550/68946c6a28df453cadaf32ed909007c6/artifacts
+deleted_time: 1717848812300
+end_time: 1717847181162
+entry_point_name: ''
+experiment_id: '380372782971329550'
+lifecycle_stage: deleted
+run_id: 68946c6a28df453cadaf32ed909007c6
+run_name: serious-midge-687
+run_uuid: 68946c6a28df453cadaf32ed909007c6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717847181137
+status: 4
+tags: []
+user_id: bhikipallai
