@@ -1,0 +1,16 @@
+artifact_uri: mlflow-artifacts:/0/69b8c0ebc7604cd2b82e9dc6e88dfa71/artifacts
+deleted_time: 1717933409863
+end_time: 1717933376896
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+run_id: 69b8c0ebc7604cd2b82e9dc6e88dfa71
+run_name: iris_classifier09-06-24
+run_uuid: 69b8c0ebc7604cd2b82e9dc6e88dfa71
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1717933376874
+status: 4
+tags: []
+user_id: bhikipallai
