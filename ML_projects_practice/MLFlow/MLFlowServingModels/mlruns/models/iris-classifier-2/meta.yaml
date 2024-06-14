@@ -1,5 +1,6 @@
-aliases: {}
+aliases:
+  champion: '1'
 creation_timestamp: 1717936559212
 description: ''
-last_updated_timestamp: 1717940214976
+last_updated_timestamp: 1717952551315
 name: iris-classifier-2
